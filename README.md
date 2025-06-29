@@ -3,7 +3,7 @@ Simple codes for testing basic board funcionalities or running single external m
 
 ## 📚 Spis puzzli
 
-1. [LED](1_LED) – mruganie diodą  
+1. [LED](sensors/1_LED) – mruganie diodą  
 2. [WiFi](2_WiFi) – podstawy sieci  
 3. [Bluetooth](3_Bluetooth) – BLE beacon  
 4. [MQTT](4_MQTT) – publikacja danych  
