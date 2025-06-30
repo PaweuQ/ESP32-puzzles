@@ -16,6 +16,7 @@ Simple codes for testing basic board funcionalities or running single external m
 4. [MQ2](sensors/4_MQ2_gas_sensor) – gas sensor
 5. [BH1750](sensors/5_BH1750_light_sensor) – light sensor
 6. [DH11](sensors/6_DHT11_humidity_temp_sensor) – humidity and temperature sensor (DHT11 aliexpress copycat)
+7. [QT18B20](sensors/7_QT18B20_temperature_sensor) – temperature sensor
 
 ## 🕹️ Inputs
 
