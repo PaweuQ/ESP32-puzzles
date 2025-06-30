@@ -15,6 +15,7 @@ Simple codes for testing basic board funcionalities or running single external m
 3. [HC-SR04](sensors/3_HC-SR04_distance_sensor) – ultrasonic distance sensor
 4. [MQ2](sensors/4_MQ2_gas_sensor) – gas sensor
 5. [BH1750](sensors/5_BH1750_light_sensor) – light sensor
+6. [DH11](sensors/6_DHT11_humidity_temp_sensor) – humidity and temperature sensor (DHT11 aliexpress copycat)
 
 ## 🕹️ Inputs
 
