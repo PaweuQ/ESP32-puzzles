@@ -1,2 +1,6 @@
-# LED blinking
-Simple code for ESP32 to make the LED diode blink.
+# MQTT protocol setup for Arduino IDE
+
+Remember to: 
+- put your WiFi data,
+- change topic,
+- change client name
