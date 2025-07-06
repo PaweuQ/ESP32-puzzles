@@ -1,8 +1,4 @@
 # LED blinking
 Simple code for ESP32 to make the LED diode blink.
 
-<p align="center">
-  <a href="lights/1_LED/circuit.png" target="_blank">
-    <img src="All.jpg">
-  </a>
-</p>
+![Circuit](./lights/1_LED/circuit.png)
