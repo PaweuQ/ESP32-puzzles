@@ -1,4 +1,6 @@
-# DS18B20 sensor
-Simple code for ESP32 to read from DS18B20 temperature sensor. 
+# DH11, temperature and humidity sensor
+Simple code for ESP32 to read from DH11 sensor. 
 
-![Circuit](https://github.com/PaweuQ/ESP32-puzzles/raw/main/sensors/1_DS18B20_temperature_sensor/circuit.png)
+![Circuit](https://github.com/PaweuQ/ESP32-puzzles/raw/main/sensors/6_DHT11_humidity_temp_sensor/circuit.png)
+
+
