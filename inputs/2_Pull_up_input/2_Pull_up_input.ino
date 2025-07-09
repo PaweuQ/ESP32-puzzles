@@ -6,7 +6,7 @@
 //ADDITIONAL INFORMATION 
 //
 //FOR LED 
-// longer LED pin  - pin 15 (power supply)
+// longer LED pin  - pin 18 (power supply)
 // shorter LED pin - GND
 //
 //FOR TEST
