@@ -1,4 +1,4 @@
-# DS18B20 sensor
-Simple code for ESP32 to read from DS18B20 temperature sensor. 
+# HC-SR04 ultrasonic distance sensor
+Simple code for ESP32 to read from HC-SR04 sensor. 
 
-![Circuit](https://github.com/PaweuQ/ESP32-puzzles/raw/main/sensors/1_DS18B20_temperature_sensor/circuit.png)
+![Circuit](https://github.com/PaweuQ/ESP32-puzzles/raw/main/sensors/3_HC-SR04_distance_sensor/circuit.png)
