@@ -9,9 +9,9 @@
 //czas trwania kazdego ze swiatel mozna latwo dostosowac
 //zmieniajac opoznienia
 
-const int zielona  = 18;
+const int zielona  = 21;
 const int zolta    = 19;
-const int czerwona = 21;
+const int czerwona = 18;
 
 void setup() {
   pinMode(zielona, OUTPUT);
