@@ -1,4 +1,4 @@
-# DS18B20 sensor
-Simple code for ESP32 to read from DS18B20 temperature sensor. 
+# BH1750 light sensor
+Simple code for ESP32 to read from BH1750 light sensor. 
 
-![Circuit](https://github.com/PaweuQ/ESP32-puzzles/raw/main/sensors/1_DS18B20_temperature_sensor/circuit.png)
+![Circuit](https://github.com/PaweuQ/ESP32-puzzles/raw/main/sensors/5_BH1750_light_sensor/circuit.png)
