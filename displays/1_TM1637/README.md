@@ -1,4 +1,4 @@
-# DS18B20 sensor
-Simple code for ESP32 to read from DS18B20 temperature sensor. 
+# TM1637 4-digit display
+Simple code for ESP32 to display something on TM1637. 
 
-![Circuit](https://github.com/PaweuQ/ESP32-puzzles/raw/main/sensors/1_DS18B20_temperature_sensor/circuit.png)
+![Circuit](https://github.com/PaweuQ/ESP32-puzzles/raw/main/displays/1_TM1637/circuit.png)
