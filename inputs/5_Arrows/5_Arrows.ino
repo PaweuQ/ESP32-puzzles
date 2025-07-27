@@ -11,10 +11,10 @@
 // przyciski inkrementuja i dekrementuja wartosci zmiennych 
 // w dwoch osiach X i Y
 
-#define up    19
+#define up    22
 #define down  18
-#define right 22
-#define left  21
+#define right 21
+#define left  19
 
 void setup() {
   
