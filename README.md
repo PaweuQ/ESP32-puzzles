@@ -36,7 +36,7 @@ Simple codes for testing basic board funcionalities or running single external m
 ## 🖥️ Displays
 
 1. [TM1637](displays/1_TM1637) – 4‑digit 7‑segment display
-2. [LCD TDT 320x240](displays/2_LCD_320x240) – 2.8" TFT LCD 320x240 display
+2. [LCD 320x240](displays/2_LCD_320x240) – 2.8" TFT LCD 320x240 display
 
 ## ⚙️ Actuators
 ## 🗃️ Misc
