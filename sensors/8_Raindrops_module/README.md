@@ -1,3 +1,4 @@
-# Monostable button
-Simple code for ESP32 to use monostable button
-![Circuit](https://github.com/PaweuQ/ESP32-puzzles/raw/main/inputs/3_Monostable_button/circuit.png)
+# Rain detector
+Simple code for ESP32 to use raindrops module to detect rain
+![Circuit](https://github.com/PaweuQ/ESP32-puzzles/raw/main/sensors/8_Raindrops_module/circuit.png)
+
