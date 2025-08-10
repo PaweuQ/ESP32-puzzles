@@ -1,3 +1,9 @@
+//BASIC INFORMATION
+// Program: NTP setup for ESP32
+// Author:  Paweł Bartkiewicz 
+// email:   15g.pawel.bart@gmail.com
+// github:  PaweuQ
+
 #include <WiFi.h>
 #include "time.h"
 
