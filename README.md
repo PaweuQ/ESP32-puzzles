@@ -41,3 +41,6 @@ Simple codes for testing basic board funcionalities or running single external m
 
 ## ⚙️ Actuators
 ## 🗃️ Misc
+1. [MicroSD module](misc/1_microSD-module) – setup code microSD card module
+2. [NTP](misc/2_NTP) – Network Time Protocol (reading real time from the Internet via WiFI)
+
