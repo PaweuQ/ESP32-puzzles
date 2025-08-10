@@ -4,6 +4,19 @@
 // email:   15g.pawel.bart@gmail.com
 // github:  PaweuQ
 
+//ADDITIONAL INFORMATION
+// Libraries to install: OneWire and DallasTemperature
+
+//CONNECTIONS 
+// VCC - 3.3 V
+// GND - GND 
+// MISO - GPIO 19
+// MOSI - GPIO 23
+// SCK - GPIO 18
+// CS - GPIO 5
+
+// GPIO pins 19,23,18,5 are default VSPI ports for ESP32
+
 #include <OneWire.h>
 #include <DallasTemperature.h>
 #include <SPI.h>
