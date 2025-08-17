@@ -22,8 +22,6 @@
 
 #define LED 18
 
-int S = 0;
-
 void setup() {
   pinMode(15, INPUT_PULLUP);
   pinMode(LED, OUTPUT);
