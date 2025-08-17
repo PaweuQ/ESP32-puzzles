@@ -26,7 +26,7 @@
 bool CS = false; //current button status
 bool LS = false; //last button status
 bool cLEDs = false; //current LED status
-bool nLEDs = false; //new button status
+bool nLEDs = false; //new LED status
 
 void setup() 
 {
