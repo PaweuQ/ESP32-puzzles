@@ -40,7 +40,11 @@ Simple codes for testing basic board funcionalities or running single external m
 2. [LCD 320x240](displays/2_LCD_320x240) – 2.8" TFT LCD 320x240 display
 
 ## ⚙️ Actuators
+
+1. [IRF520](actuators/1_MOSFET_IRF520) – MOSFET IRF520 transistor module
+
 ## 🗃️ Misc
+
 1. [MicroSD module](misc/1_microSD-module) – setup code microSD card module
 2. [NTP](misc/2_NTP) – Network Time Protocol (reading real time from the Internet via WiFI)
 
