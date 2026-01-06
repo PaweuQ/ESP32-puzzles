@@ -33,6 +33,7 @@ Simple codes for testing basic board funcionalities or running single external m
 
 1. [LED](lights/1_LED) – basic LED control / blink example
 2. [Traffic indicator](lights/2_Traffic-indicator) – Traffic‑light LED module (red‑yellow‑green sequence)
+3. [LED matrix](lights/3_LED_matrix) – LED matrix 4x 8x8
 
 ## 🖥️ Displays
 
