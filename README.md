@@ -48,4 +48,5 @@ Simple codes for testing basic board funcionalities or running single external m
 
 1. [MicroSD module](misc/1_microSD-module) – setup code microSD card module
 2. [NTP](misc/2_NTP) – Network Time Protocol (reading real time from the Internet via WiFI)
+3. [LCD, microSD, JPG](misc/3_LCD_SD_JPG) – code collecting 3 functionalities - LCD display setup, loading images from microSD card, implementing JPG decoder
 
