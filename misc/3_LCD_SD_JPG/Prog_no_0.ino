@@ -52,6 +52,7 @@ void setup()
     TJpgDec.setSwapBytes(false);   // RGB565
     TJpgDec.setJpgScale(1);
 
+    
     // rysuje pusty prostokat
     tft.drawRect(200, 200, 50, 50, TFT_BROWN);
     // rysuje okrag
@@ -72,7 +73,34 @@ void setup()
     tft.drawFastVLine(50, 30, 120, TFT_GREEN);
     // rysuje wypelniony prostokat
     tft.fillRect(150, 400, 50, 50, TFT_BROWN);
+    
+    //poczatek pisania
+    tft.setCursor(10,300);
+    //rozmiar czcionki
+    tft.setTextSize(3);
+    //kolor tekstu, kolor tla
+    tft.setTextColor(TFT_WHITE, TFT_BLUE);
+    //tresc
+    tft.print("Hello");
+    tft.setTextColor(TFT_GREEN, TFT_BLUE);
+    tft.print("test");
 
+    tft.drawRect(10, 300, 5, 5, TFT_BROWN);
+
+    //tworzenie wlasnego koloru
+    uint16_t TFT_LIME = tft.color565(127,255,0);
+
+    tft.fillRect(70, 350, 40, 40, TFT_LIME);
+
+  
+    TJpgDec.drawSdJpg(0, 0, "/test0.jpg");
+    TJpgDec.drawSdJpg(0, 0, "/test1.jpg");
+    TJpgDec.drawSdJpg(0, 0, "/test2.jpg");
+    TJpgDec.drawSdJpg(0, 0, "/test3.jpg");
+    TJpgDec.drawSdJpg(0, 0, "/test4.jpg");
+    TJpgDec.drawSdJpg(0, 0, "/test5.jpg");
+
+    TJpgDec.drawSdJpg(0, 0, "/test0.jpg");
 }
 
 void loop() {
